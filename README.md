@@ -1,2 +1,2 @@
 # nvim-verilog-mode
-neovim plugin to use verilog-mode like emacs
+Neovim plugin to invoke Emacs's verilog-mode for Verilog/SystemVerilog
